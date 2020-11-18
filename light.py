@@ -10,7 +10,8 @@ from time import sleep
 
 # remote host parameters
 # HOSTNAME = '192.168.0.128' # test-bench
-HOSTNAME = '192.168.0.152' # robot
+# HOSTNAME = '192.168.0.152' # robot
+HOSTNAME = '192.168.0.194' # fongpi
 PORT = 8888
 
 # PIGPIO parameters
