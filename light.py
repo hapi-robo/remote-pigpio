@@ -3,6 +3,7 @@
 """Remotely control light
 
 """
+import sys
 import pigpio
 
 from time import sleep
